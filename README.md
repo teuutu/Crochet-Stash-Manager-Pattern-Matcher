@@ -13,7 +13,7 @@ Interactive Web Interface: Provides a user-friendly dashboard for viewing the st
 Zero-Configuration Deployment: Configured for seamless deployment on Streamlit Community Cloud.
 
 3. Live Demo
-🔗 View the Live Application: 
+🔗 View the Live Application: https://crochet-app.streamlit.app/
 
 4. Technology Stack
 
