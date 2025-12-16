@@ -16,8 +16,17 @@ Zero-Configuration Deployment: Configured for seamless deployment on Streamlit C
 🔗 View the Live Application: https://crochet-app.streamlit.app/
 
 4. Technology Stack
+   Backend/logic: Python 3.10+
+   
+   Web Framework: Streamlit
+   
+   Database:SQlite
+   
+   Data Handling: Pandas,sqlite-utils
+   
+   Deployment: Streamlit community cloud
 
-5. Setup and Installation
+6. Setup and Installation
  
 Prerequisites
 Python 3.8+
